@@ -1,0 +1,368 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 900px;
+    background-image: url(mp4\ 1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+nav{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding-top: 40px;
+}
+.on1{
+    max-width: 500px;
+    margin: auto;
+} 
+.on1 ul{
+    display: flex;
+    margin: auto;
+ 
+    text-align: center;
+    justify-content: space-around;
+    
+}
+.on1 ul li{
+    color: white;
+    list-style: none;
+}
+nav button{
+    border-radius: 200px;
+    background: #9400FF;
+    width: 91px;
+    height: 21px;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: "IBM Plex Mono";
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 14px; /* 107.692% */
+    text-transform: capitalize;
+}
+.main{
+    width: 80%;
+    margin: auto;
+    margin-top: 150px;
+}
+.main p{
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px; /* 156.25% */
+}
+.main h1{
+    width: 578px;
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 62px; /* 129.167% */
+    padding-top: 10px;
+}
+.main button{
+    border-radius: 200px;
+    background: #9400FF;
+    width: 212px;
+    height: 50px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: "IBM Plex Mono";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 153.846% */
+    text-transform: capitalize;
+    margin-top: 50px;
+}
+.new{
+    width: 100%;
+    height: 4413px;
+    background-color: black;
+   
+}
+.no{
+    width: 90%;
+    display: flex;
+    margin: auto;
+}
+.mo{
+    max-width: 594.859px;
+    height: 875px;
+    
+}
+.mo img{
+    width: 100%;
+}
+.mo h2{
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 62px;
+    padding-top: 230px;
+}
+.mo p{
+    width: 335px;
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 200% */
+    padding-top: 22px;
+}
+.mo button{
+    border-radius: 200px;
+    background: #9400FF;
+    width: 202px;
+    height: 40px;
+    margin-top: 50px;
+    
+}
+.old{
+    max-width: 1450px;
+    margin: auto;
+}
+.old img{
+    width: 100%;
+}
+.old h3{
+    color: #FFF;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 137.931% */
+    text-transform: capitalize;
+    margin-top: 250px;
+}
+.bol{
+    max-width: 1450px;
+    margin: auto;
+}
+.bol img{
+    width: 100%;
+}
+.bol h4{
+    color: #FFF;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 137.931% */
+    text-transform: capitalize;
+    margin-top: 100px;
+    padding-bottom: 50px;
+
+}
+.pol{
+    display: flex;
+    max-width: 1450px;
+    margin: auto;
+
+}
+
+.pol .ko{
+    max-width: 594.859px;
+    height: 594.859px;
+    
+    margin-top: 150px;
+    
+}
+.ko img{
+    display: flex;
+    margin: auto;
+    text-align: center;
+
+}
+.ko h5{
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 137.931% */
+    text-transform: capitalize;
+    padding-top: 100px;
+}
+.ko p{
+    color: #EBEBEB;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 187.5% */
+    padding-top: 40px;
+}
+.ko button{
+    border-radius: 200px;
+    background: #9400FF;
+    width: 170px;
+    height: 40px;
+    flex-shrink: 0;
+    margin-top: 30PX;
+}
+footer{
+    
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+footer .kok{
+    width: 50%;
+    height: 200px;
+    
+    margin: auto;
+}
+.kok h6{
+    color: #FFF;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 52px; /* 101.961% */
+}
+.kok p{
+    color: rgba(255, 255, 255, 0.70);
+    text-align: center;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 144.444% */
+    margin-top: 20px;
+}
+.kok button{
+    width: 202px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 200px;
+    background: #9400FF;
+    display: flex;
+    margin: auto;
+    padding-left: 40px;
+    text-align: center;
+    margin-top: 39px;
+
+}
+
+@media screen and (max-width:450px) {
+    .pol .ko{
+        max-width: 390.859px;
+        height: 154.859px;  
+    }
+    .ko h5{
+        font-size: 19px;
+    }
+    .ko p{
+        width: 300px;
+        font-size: 12px;
+    }
+    .ko img{
+        max-width: 300px;
+    }
+}
+@media screen and (max-width:750px) {
+    .pol{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .pol .ko{
+        max-width: 404.859px;
+        height: 264.859px;
+        
+        
+    }
+}
+@media screen and (max-width:750px) {
+    .bol img{
+        max-width: 600px;
+    }
+}
+@media screen and (max-width:450px) {
+    .bol img{
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .old img{
+        max-width: 600px;
+    }
+}
+@media screen and (max-width:450px) {
+    .old img{
+        max-width: 500px;  
+    } 
+}
+@media screen and (max-width:450px) {
+    .mo img{
+        width: 300px;
+        height: 600px;
+    
+       
+    }
+    
+}
+@media screen and (max-width:750px) {
+    .no{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    
+}
+@media screen and (max-width:450px) {
+    .on1 ul{
+        width: 70%;
+        
+    
+       
+    }
+    
+}
+@media screen and (max-width:750px) {
+    .on1 ul{
+       width: 200px;
+        
+    }
+    
+}
+@media screen and (max-width:750px) {
+    nav{
+        display: grid;
+        grid-template-columns: auto;
+        height: auto;
+       
+    }
+    
+}
+@media screen and (max-width:750px) {
+    .main h1{
+        width: 378px;
+        font-size: 38px;
+    }
+}
+@media screen and (max-width:450px) {
+    .main h1{
+        width: 245px;
+        font-size: 28px;
+       
+    }
+    
+}
+
